@@ -1,0 +1,1 @@
+import{c as e,t as r,P as a,o as t}from"./Dx-Z4c3w.js";import{_ as s}from"./DlAUqK2U.js";const n={};function _(o,c){return t(),e("div",null,r((o._.provides[a]||o.$route).params),1)}const m=s(n,[["render",_]]);export{m as default};

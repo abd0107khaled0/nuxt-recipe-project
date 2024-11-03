@@ -1,0 +1,1 @@
+import{_ as r}from"./819Gk1pw.js";import{_ as a}from"./CxXyZlnA.js";import{u as _,c as n,b as e,o as c}from"./Dx-Z4c3w.js";import"./DVPFq7Rr.js";import"./DlAUqK2U.js";const x={__name:"index",setup(m){return _({title:"CardRader"}),(s,p)=>{const o=r,t=a;return c(),n("div",null,[e(o,{title:"Hero"}),e(t)])}}};export{x as default};
