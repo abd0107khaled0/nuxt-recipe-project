@@ -1,0 +1,1 @@
+import{r as o,b as e,c as s,o as a}from"./DEtnIR93.js";const _={__name:"composition",setup(r){const c=o(0);o(1),e({count:c});const t=e([o("Vue 3 Guide")]);console.log(t[0].value);const n=e(new Map([["count",o(22)]]));return console.log(n.get("count").value),(u,l)=>(a(),s("div"))}};export{_ as default};

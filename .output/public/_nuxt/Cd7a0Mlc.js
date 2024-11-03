@@ -1,1 +1,0 @@
-import{_ as r}from"./819Gk1pw.js";import{_}from"./CxXyZlnA.js";import{c as n,b as o,o as a}from"./Dx-Z4c3w.js";import"./DVPFq7Rr.js";import"./DlAUqK2U.js";const d={__name:"index",setup(c){return(m,p)=>{const t=r,e=_;return a(),n("div",null,[o(t,{title:"cartrader"}),o(e)])}}};export{d as default};

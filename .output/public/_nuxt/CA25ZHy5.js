@@ -1,0 +1,1 @@
+import{_ as r}from"./DlAUqK2U.js";import{c as t,a as n,K as s,o as a}from"./DEtnIR93.js";const l={};function c(o,e){return a(),t("div",null,[e[0]||(e[0]=n("h1",null,"Login Layout",-1)),s(o.$slots,"default")])}const i=r(l,[["render",c]]);export{i as default};
